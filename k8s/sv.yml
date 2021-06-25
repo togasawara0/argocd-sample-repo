@@ -14,4 +14,4 @@ spec:
     name: app
     app: nginxjs
     color: blue
-  type: LoadBalancer
+  type: NodePort
