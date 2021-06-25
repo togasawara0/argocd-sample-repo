@@ -25,7 +25,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/bntakubn/cicd:64dcd65dafbbb953549d2496d50c53cf98e8b2ab
+      - image: docker.io/bntakubn/cicd:fa6bac29a6f7782d1564bb5d15bb85b3cf251e5b
         name: blue
         ports:
           - containerPort: 80
